@@ -27,4 +27,4 @@ public:
     void clear_queue();
 };
 
-#endif // BACKTRACE_HPP
+#endif 
