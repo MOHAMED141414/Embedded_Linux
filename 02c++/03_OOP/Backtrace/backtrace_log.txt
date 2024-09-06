@@ -1,0 +1,8 @@
+Enter to [ main ] at line 13
+Enter to [ simpleFunction ] at line 4
+Inside simpleFunction
+Exit from [ simpleFunction ] at line 9
+0- main
+1- simpleFunction
+Backtrace is finished
+Exit from [ main ] at line 16
